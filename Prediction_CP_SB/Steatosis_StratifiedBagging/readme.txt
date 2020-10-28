@@ -1,4 +1,4 @@
-The jupyter notebook for the prediction of steatosis using our Stratified Bagging models.
+The jupyter notebook for the prediction of steatosis using Stratified Bagging models.
 
 Installation and dependencies
 Anaconda (https://docs.anaconda.com/anaconda/navigator/install/) >= 1.9.12
